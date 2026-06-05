@@ -1,6 +1,6 @@
 ### Hi, I'm Hoang Pham👋
 
-Frontend-focused Web Developer with 2.5+ years of experience building scalable web apps for SaaS and enterprise product teams. Specialized in React ecosystem, component architecture and UI rendering performance (LCP, CLS, INP). Proven track record working in cross-functional Agile teams and leveraging AI-assisted workflows (Claude Code, Cursor, Kiro) to ship features faster.
+Frontend-focused Web Developer with 2.5+ years of experience web applications for SaaS and enterprise product teams.
 
 ### Tech I work with
 
