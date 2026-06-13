@@ -44,11 +44,11 @@
 
 ---
 
-## 📊 My GitHub Data 
+## 📊 My GitHub Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamtanhoang&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamtanhoang&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=phamtanhoang&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=phamtanhoang&hide_border=true&theme=default" />
 </div>
 
 <div align="center">
