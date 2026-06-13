@@ -8,8 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://phamtanhoang.io.vn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamtanhoang3202@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=phamtanhoang&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -43,3 +41,18 @@
 **Frontend:** ReactJS · Next.js · Redux · Zustand · TanStack Query · TailwindCSS · SASS · Ant Design · Material UI · Shadcn UI
 
 **Testing & Tooling:** Jest · Git · Docker · CI/CD · Agile/Scrum
+
+---
+
+## 📊 My GitHub Data 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phamtanhoang&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamtanhoang&hide_border=true" />
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=phamtanhoang&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
