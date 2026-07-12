@@ -41,6 +41,3 @@
 **Frontend:** ReactJS · Next.js · Redux · Zustand · TanStack Query · TailwindCSS · SASS · Ant Design · Material UI · Shadcn UI
 
 **Testing & Tooling:** Jest · Git · Docker · CI/CD · Agile/Scrum
-
----
-
