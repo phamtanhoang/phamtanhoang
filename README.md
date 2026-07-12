@@ -44,13 +44,3 @@
 
 ---
 
-
-<div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=phamtanhoang&hide_border=true&theme=default" />
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=phamtanhoang&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
